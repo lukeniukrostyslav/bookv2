@@ -26,3 +26,7 @@ None yet.
 | C-010 | Antagonist | Alessandro Vieri protects and weaponizes the hidden acoustic network | CENTRAL_MYSTERY_B6 | VERIFIED |
 | C-011 | Mechanism | Recordings can be assembled from genuine audio, delayed releases, hidden feeds, edits and falsified metadata | CENTRAL_MYSTERY_B6 | VERIFIED |
 | C-012 | Matteo | Matteo discovered evidence of the network 11 years ago; fate remains UNKNOWN | CENTRAL_MYSTERY_B6 | VERIFIED |
+
+| C-017 | Structure | Every chapter in B8 has a goal, conflict, clue, turn and hook | CHAPTER_BLUEPRINT_B8 | VERIFIED |
+| C-018 | Motif | 31-second interval recurs as a mechanical signature and thematic motif | CHAPTER_BLUEPRINT_B8 | VERIFIED |
+| C-019 | Ending | Epilogue resolves mystery while retaining 31-second motif without supernatural implication | CHAPTER_BLUEPRINT_B8 | VERIFIED |
