@@ -9,3 +9,5 @@
 | D-004 | 2026-09-20 | Working concept C1 — THE LAST RECORDING selected | Strong high-concept mystery, audio-based clue system, emotional and atmospheric potential | ACTIVE |
 
 | D-005 | 2026-09-20 | Elia's missing brother is part of his emotional history but is not automatically the solution to the central mystery | Preserve character depth and avoid cheap twist | ACTIVE |
+
+| D-008 | 2026-09-20 | B8 fixes each chapter around goal, conflict, clue, turn and hook | Prevents episodic investigation and maintains commercial pacing | ACTIVE |
