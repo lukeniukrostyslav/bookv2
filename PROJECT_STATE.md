@@ -3,8 +3,8 @@
 Project: Book V2 — New Commercial Novel
 Repository: lukeniukrostyslav/bookv2
 Canonical branch: main
-Status: B4 WORLD & ATMOSPHERE COMPLETE
-Overall progress: 28%
+Status: B5 CHARACTERS COMPLETE
+Overall progress: 35%
 
 ## Blocks
 - B0 Project foundation: 0%
@@ -12,7 +12,7 @@ Overall progress: 28%
 - B2 Core concept: 100%
 - B3 Story promise / hook: 100%
 - B4 World and atmosphere: 100%
-- B5 Characters: 0%
+- B5 Characters: 100%
 - B6 Central mystery / conflict: 0%
 - B7 Plot architecture: 0%
 - B8 Chapter blueprint: 0%
@@ -34,4 +34,4 @@ Overall progress: 28%
 8. Before continuing work, read the continuity documents.
 
 ## Current gate
-B4 world and atmosphere complete. Next gate: B5 Characters.
+B5 characters complete. Next gate: B6 Central mystery / conflict.
