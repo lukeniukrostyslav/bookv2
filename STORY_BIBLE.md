@@ -7,7 +7,7 @@ Not yet established.
 UNKNOWN.
 
 ## Genre
-UNKNOWN.
+Psychological mystery / thriller.
 
 ## Setting
 UNKNOWN.
@@ -16,10 +16,10 @@ UNKNOWN.
 UNKNOWN.
 
 ## Core premise
-UNKNOWN.
+A sound archivist receives a recording that appears to have been made twelve hours after the recorded speaker's official death. The recording contains a private sentence that should be impossible for the speaker to know. The archivist begins investigating and discovers a pattern connecting other impossible recordings to disappearances from the same coastal town.
 
 ## Story promise
-UNKNOWN.
+A fair-play investigation into impossible posthumous recordings, with emotional stakes and a coherent final explanation.
 
 ## Main characters
 UNKNOWN.
