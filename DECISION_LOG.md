@@ -11,3 +11,6 @@
 | D-005 | 2026-09-20 | Elia's missing brother is part of his emotional history but is not automatically the solution to the central mystery | Preserve character depth and avoid cheap twist | ACTIVE |
 
 | D-008 | 2026-09-20 | B8 fixes each chapter around goal, conflict, clue, turn and hook | Prevents episodic investigation and maintains commercial pacing | ACTIVE |
+
+| D-009 | 2026-09-20 | Anonymous messages are a pre-arranged Mara dead-drop system, not an omniscient living helper | Removes an unexplained information source and strengthens fair play | ACTIVE |
+| D-010 | 2026-09-20 | The climax must require preserving the master, stopping overwrite, and exporting an independent copy | Makes the technical resolution causally earned | ACTIVE |
