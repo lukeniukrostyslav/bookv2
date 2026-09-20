@@ -59,3 +59,11 @@
 - Standardized evidence terminology and reduced repetitive phrasing.
 - Preserved canon, reveal order and character knowledge.
 - Saved MANUSCRIPT/LINE_EDIT_02_CHAPTERS_09-16.md.
+
+## 2026-09-20 — B11 line edit chapters 17–24
+- Completed the first line-edit pass for Chapters 17–24.
+- Tightened suspense prose while preserving deliberate short beats.
+- Preserved the distinction between evidence and conclusion, especially around Vieri and the composite Matteo recording.
+- Standardized provenance/evidence terminology.
+- Preserved canon, reveal order, chronology and character knowledge.
+- Saved MANUSCRIPT/LINE_EDIT_03_CHAPTERS_17-24.md.
