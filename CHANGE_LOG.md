@@ -30,3 +30,11 @@
 - Drafted Chapters 25–32 and Epilogue.
 - Completed the first full manuscript pass across 32 chapters plus epilogue.
 - Preserved the grounded non-supernatural resolution and fair-play mechanism.
+
+
+## 2026-09-20 — B10 developmental rewrite chapters 17–24
+- Rewrote Chapters 17–24 against the B10 edit specification.
+- Slowed the revelation curve and separated evidence from conclusions.
+- Strengthened Lucia, Tomas, Sofia/Vieri setup, provenance rules, and Matteo's emotional history.
+- Established the false Matteo recording as a composite of genuine audio rather than an implausible fabricated voice.
+- Preserved the grounded non-supernatural mechanism and B8 reveal order.
