@@ -75,3 +75,10 @@
 - Preserved Matteo's restrained emotional resolution.
 - Preserved the grounded non-supernatural explanation and 31-second thematic motif.
 - Saved MANUSCRIPT/LINE_EDIT_04_CHAPTERS_25-32_EPILOGUE.md.
+
+
+## 2026-09-20 — B11 full verification gate
+- Verified the complete B11 line-edit checkpoint across Chapters 1–32 and the Epilogue.
+- Passed canon preservation, reveal order, character knowledge, mystery mechanism, fair play, clue/payoff integrity, climax structure, legal/evidentiary precision, ending integrity and prose consistency.
+- Created B11_VERIFICATION_GATE.md.
+- B11 is now 100% VERIFIED; B12 is the active next gate.
