@@ -67,3 +67,11 @@
 - Standardized provenance/evidence terminology.
 - Preserved canon, reveal order, chronology and character knowledge.
 - Saved MANUSCRIPT/LINE_EDIT_03_CHAPTERS_17-24.md.
+
+## 2026-09-20 — B11 line edit chapters 25–32 + epilogue
+- Completed the first line-edit pass for Chapters 25–32 and the Epilogue.
+- Tightened climax prose while preserving the three-part evidence-preservation sequence.
+- Preserved legal/evidentiary precision around Vieri and unresolved historical cases.
+- Preserved Matteo's restrained emotional resolution.
+- Preserved the grounded non-supernatural explanation and 31-second thematic motif.
+- Saved MANUSCRIPT/LINE_EDIT_04_CHAPTERS_25-32_EPILOGUE.md.
