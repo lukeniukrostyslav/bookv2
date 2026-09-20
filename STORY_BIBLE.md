@@ -10,7 +10,7 @@ UNKNOWN.
 Psychological mystery / thriller.
 
 ## Setting
-UNKNOWN.
+Working setting: Porto Nero, an Italian coastal town. Final geography and period details remain open.
 
 ## Time period
 UNKNOWN.
@@ -22,28 +22,28 @@ A sound archivist receives a recording that appears to have been made twelve hou
 A fair-play investigation into impossible posthumous recordings, with emotional stakes and a coherent final explanation.
 
 ## Main characters
-UNKNOWN.
+Elia Valli — sound archivist. Other principal characters remain open.
 
 ## Antagonistic force
 UNKNOWN.
 
 ## Central mystery/conflict
-UNKNOWN.
+Impossible posthumous recordings connected to disappearances in Porto Nero.
 
 ## Rules of the world
 UNKNOWN.
 
 ## Important locations
-UNKNOWN.
+Municipal archive; Via della Marina, 6; former site of Mara Venturi's home.
 
 ## Key objects
-UNKNOWN.
+Mara Venturi cassette; evidence bag; second audio attachment.
 
 ## Secrets
-UNKNOWN.
+The recordings contain hidden audio layers. Exact mechanism is UNKNOWN.
 
 ## Reveals
-UNKNOWN.
+Chapter-opening reveals are drafted; final reveal architecture remains UNKNOWN.
 
 ## Ending
 UNKNOWN.
