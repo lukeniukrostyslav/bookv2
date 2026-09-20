@@ -20,3 +20,7 @@
 
 ## B9 — Chapters 9–16
 - Drafted the pattern investigation, 31-second signature, old acoustic system, timestamp manipulation, surveillance discovery, Matteo connection, acoustic route, and Room Twelve midpoint.
+
+
+## B9 — Chapters 17–24
+- Drafted the copied Matteo evidence, archive compromise, Vieri introduction, preservation records, hidden audio instruction, Matteo route, manufactured living-Matteo recording, and recovered final minute.
