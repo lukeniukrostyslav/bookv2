@@ -52,3 +52,10 @@
 - Standardized dialogue and evidence terminology.
 - Preserved canon, reveal order and character knowledge.
 - Saved MANUSCRIPT/LINE_EDIT_01_CHAPTERS_01-08.md.
+
+## 2026-09-20 — B11 line edit chapters 9–16
+- Completed the first line-edit pass for Chapters 9–16.
+- Tightened investigative prose and dialogue while preserving deliberate short beats.
+- Standardized evidence terminology and reduced repetitive phrasing.
+- Preserved canon, reveal order and character knowledge.
+- Saved MANUSCRIPT/LINE_EDIT_02_CHAPTERS_09-16.md.
