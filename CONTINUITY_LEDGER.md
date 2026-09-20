@@ -16,3 +16,8 @@ None yet.
 | C-002 | Location | Municipal Archive is a former customs office | WORLD_ATMOSPHERE_B4 | VERIFIED |
 | C-003 | Location | Hotel Aurora occupies the former Via della Marina, 6 site | WORLD_ATMOSPHERE_B4 | VERIFIED |
 | C-004 | Mystery | Sound/archival evidence is a primary investigative mechanism | STORY_BIBLE / B4 | VERIFIED |
+
+| C-005 | Character | Elia's brother Matteo disappeared 11 years before opening; fate UNKNOWN | CHARACTERS_B5 | VERIFIED |
+| C-006 | Character | Lucia remembers an omitted detail from Matteo investigation | CHARACTERS_B5 | VERIFIED |
+| C-007 | Character | Mara investigated audio interference near old customs warehouse | CHARACTERS_B5 | VERIFIED |
+| C-008 | Character | Sofia received a message from Mara three days before death and withheld it from police | CHARACTERS_B5 | VERIFIED |
