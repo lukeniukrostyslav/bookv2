@@ -3,8 +3,8 @@
 Project: Book V2 — New Commercial Novel
 Repository: lukeniukrostyslav/bookv2
 Canonical branch: main
-Status: B8 CHAPTER BLUEPRINT COMPLETE
-Overall progress: 56%
+Status: B9 MANUSCRIPT DRAFTING IN PROGRESS
+Overall progress: 59%
 
 ## Blocks
 - B0 Project foundation: 0%
@@ -16,7 +16,7 @@ Overall progress: 56%
 - B6 Central mystery / conflict: 100%
 - B7 Plot architecture: 100%
 - B8 Chapter blueprint: 100%
-- B9 Manuscript drafting: 0%
+- B9 Manuscript drafting: 20%
 - B10 Developmental edit: 0%
 - B11 Line edit / prose polish: 0%
 - B12 Continuity / clue / fair-play audit: 0%
@@ -34,4 +34,4 @@ Overall progress: 56%
 8. Before continuing work, read the continuity documents.
 
 ## Current gate
-B8 chapter blueprint complete. Next gate: B9 Manuscript drafting.
+B9 manuscript drafting in progress: Chapters 1–8 drafted. Next production target: Chapters 9–16.
