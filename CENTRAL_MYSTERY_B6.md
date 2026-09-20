@@ -4,7 +4,7 @@
 
 The impossible recordings are not supernatural messages from the dead.
 
-They are **deliberately constructed post-event recordings** produced through a hidden acoustic relay system installed beneath Porto Nero's old customs infrastructure.
+They are deliberately constructed post-event recordings produced through a hidden acoustic relay system installed beneath Porto Nero's old customs infrastructure.
 
 ### The hidden mechanism — canon
 
@@ -29,11 +29,9 @@ The apparent impossible timing is an engineered illusion.
 
 Mara discovered the hidden acoustic network while investigating interference around the old customs warehouse.
 
-She realized that someone was using it to monitor people and to manufacture false chronological evidence.
+Before her death, she created a pre-arranged dead-drop sequence designed to survive her disappearance.
 
-Before her death, she made a recording designed to survive her disappearance.
-
-The recording Elia receives is genuine, but it has been routed through the system and released at a deliberately impossible timestamp.
+The recording Elia receives is genuine, but it has been routed through the system and released with a deliberately impossible timestamp.
 
 ## The deeper conflict
 
@@ -47,9 +45,9 @@ The central antagonist is not the technology itself.
 
 It is the person who inherited and weaponized the network.
 
-## Antagonist — provisional canon
+## Antagonist — canon
 
-**Alessandro Vieri**, 58, director of a regional heritage and infrastructure foundation that helped finance the restoration of Porto Nero's waterfront.
+Alessandro Vieri, 58, director of a regional heritage and infrastructure foundation that helped finance the restoration of Porto Nero's waterfront.
 
 Publicly he is a respected preservationist.
 
@@ -57,7 +55,7 @@ Privately he has spent years protecting the network and the people who used it.
 
 His motivation is not random murder. He believes controlling information prevents greater instability and that some truths must remain managed.
 
-This belief must be challenged through the consequences of his actions.
+The final manuscript establishes his knowledge, access and repeated control over restoration, maintenance and preservation records. It does not claim that he personally caused every disappearance or death.
 
 ## Connection to Matteo
 
@@ -65,9 +63,7 @@ Matteo discovered evidence of the network eleven years ago while working as a ma
 
 He disappeared after obtaining a recording.
 
-His fate remains unresolved at this stage.
-
-The story must not reveal too early whether he is alive, dead, complicit or another victim.
+The final manuscript establishes that he confronted the network, attempted to preserve evidence, and died during that confrontation. The surviving record is deliberately limited: it does not claim to reconstruct every detail of the death.
 
 ## Why Elia was chosen
 
@@ -76,8 +72,8 @@ Elia is not chosen because of destiny.
 He is chosen because:
 - he has the technical skills to restore damaged recordings;
 - his family's history makes him emotionally vulnerable to the evidence;
-- someone knows about the old Matteo recording;
-- whoever controls the network needs to know whether Elia still possesses any surviving copy.
+- Mara knew of his connection to Matteo;
+- the operator needed to know whether surviving copies existed.
 
 ## Fair-play clue system
 
@@ -111,22 +107,22 @@ Possible but controlled:
 - Lucia being corrupt;
 - Sofia concealing a murder.
 
-None of these should become a cheap final twist.
+None of these becomes the final twist.
 
 ## Central question
 
-**Who is manufacturing impossible evidence, why was Mara trying to expose it, and what happened to everyone who discovered the system?**
+Who is manufacturing impossible evidence, why was Mara trying to expose it, and what happened to everyone who discovered the system?
 
-## Final-reveal requirement
+## Final-reveal requirement — verified
 
-The ending must explain:
+The final manuscript explains:
 1. how the recordings were made;
 2. how timestamps were manipulated;
-3. why Mara could predict Elia would hear her message;
-4. why Matteo disappeared;
-5. why Elia was targeted;
-6. what the missing final minute contains.
+3. why Mara could predict Elia would hear her message: she prepared a dead-drop sequence and chose Elia for his restoration skills and connection to Matteo;
+4. why Matteo disappeared: he confronted the network and died while trying to preserve evidence, after which the record was manipulated;
+5. why Elia was targeted: he was technically capable, emotionally connected to Matteo, and could potentially possess surviving evidence;
+6. what the missing final minute contains: Mara's route instructions, the provenance principle, and the final warning about the operator.
 
 ## B6 status
 
-100%.
+100%. Canon synchronized after B10 verification.
