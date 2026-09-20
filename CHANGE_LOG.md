@@ -45,3 +45,10 @@
 - Passed continuity, character arcs, clue/payoff, fair-play, causality, technology, chronology, Vieri role, Matteo arc, climax, ending and transitions.
 - Synchronized stale planning/canon documents with the verified manuscript.
 - Created B10_VERIFICATION_GATE.md.
+
+## 2026-09-20 — B11 line edit chapters 1–8
+- Completed the first line-edit pass for Chapters 1–8.
+- Tightened sentence rhythm and reduced repetitive phrasing.
+- Standardized dialogue and evidence terminology.
+- Preserved canon, reveal order and character knowledge.
+- Saved MANUSCRIPT/LINE_EDIT_01_CHAPTERS_01-08.md.
