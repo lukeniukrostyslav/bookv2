@@ -16,3 +16,7 @@
 - Selected C1, THE LAST RECORDING, as the canonical working concept.
 - Established the core premise and reader promise.
 - Kept protagonist identity, setting details, antagonist, mechanism and ending intentionally open for later design blocks.
+
+
+## B9 — Chapters 9–16
+- Drafted the pattern investigation, 31-second signature, old acoustic system, timestamp manipulation, surveillance discovery, Matteo connection, acoustic route, and Room Twelve midpoint.
