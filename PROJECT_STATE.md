@@ -38,6 +38,9 @@ Overall progress: 95%
 B10 is fully verified.
 B11 is fully verified.
 
+Verified manuscript word count: 5,810 words (WORD_COUNT_REPORT.md).
+The 80,000–95,000 word planning target is not yet met; this is tracked separately from gate completion.
+
 B12 is now the active gate:
 - Full line-edit verification passed.
 - No blocking defects found at the B11 gate.
