@@ -40,7 +40,7 @@ Three-act psychological mystery/thriller. Target length 80,000–95,000 words; 3
 28. Matteo — truth revealed: Matteo discovered the network and died trying to preserve evidence; his disappearance was disguised through manipulated records.
 29. The Ledger — evidence connects the network to multiple disappearances and Vieri's role.
 30. The Last Minute — Mara explains why she chose Elia and warns him about the operator.
-31. The Broadcast — Vieri attempts to destroy physical evidence; Elia uses the network to preserve an unaltered master and send evidence to Lucia.
+31. The Broadcast — the network begins an overwrite cycle; Elia, Lucia and Tomas use the established architecture to preserve the master, isolate the relay and export an independent copy.
 32. After the Noise — investigation begins; Elia accepts that truth cannot restore the lost years.
 
 ## Epilogue — 31 Seconds
@@ -63,4 +63,4 @@ Months later, an ordinary restoration contains the same 31-second interval. Elia
 Elia begins believing evidence can recover everything. He learns evidence can be manipulated. His final victory is distinguishing recording from event, evidence from interpretation, and truth from the story imposed on evidence.
 
 ## Status
-100% — B7 complete.
+100% — B7 complete and synchronized to the verified B10 manuscript.
