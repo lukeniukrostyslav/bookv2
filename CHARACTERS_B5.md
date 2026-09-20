@@ -62,12 +62,12 @@ Practical, dry humour, highly observant, uncomfortable with authority.
 ### Secret
 Mara had been investigating unusual audio interference around the old customs warehouse shortly before her death.
 
-### Canon limit
-The precise cause of the recording anomaly remains UNKNOWN.
+### Canon
+Mara created a pre-arranged dead-drop sequence designed to survive her disappearance. Her recording is genuine, but the copy Elia receives is routed through the hidden infrastructure and presented with manipulated timing/metadata.
 
 ---
 
-## Matteo Valli — Elia's missing brother
+## Matteo Valli — Elia's missing younger brother
 
 Age when disappeared: 24.
 Occupation: apprentice marine electrician.
@@ -76,10 +76,10 @@ Occupation: apprentice marine electrician.
 Personal connection between Elia and Porto Nero's forgotten history.
 
 ### Canon
-Officially disappeared eleven years before the opening. His fate is UNKNOWN.
+Matteo discovered evidence of the hidden acoustic network eleven years before the opening. He confronted the network's operation, attempted to preserve evidence, and died during that confrontation. His disappearance was subsequently obscured through manipulated records.
 
 ### Important rule
-Matteo is not automatically the solution to the central mystery. His disappearance may intersect with it, but the story must earn the connection.
+Matteo is not the mastermind and is not used as a convenient final twist.
 
 ---
 
@@ -121,8 +121,9 @@ Mara sent Sofia a message three days before her death that Sofia never showed po
 2. Secrets must create consequences.
 3. Character knowledge must be tracked separately from reader knowledge.
 4. No character is secretly the mastermind unless later evidence and motivation support it.
-5. Matteo's fate remains UNKNOWN.
-6. Mara's recording mechanism remains UNKNOWN.
+5. Matteo's fate is now established by the final developmental rewrite.
+6. Mara's recording mechanism is now established by the final developmental rewrite.
 
 ## B5 status
-100%.
+
+100%. Canon synchronized after B10 verification.
