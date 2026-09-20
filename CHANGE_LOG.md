@@ -24,3 +24,9 @@
 
 ## B9 — Chapters 17–24
 - Drafted the copied Matteo evidence, archive compromise, Vieri introduction, preservation records, hidden audio instruction, Matteo route, manufactured living-Matteo recording, and recovered final minute.
+
+
+## B9 — Full first draft complete
+- Drafted Chapters 25–32 and Epilogue.
+- Completed the first full manuscript pass across 32 chapters plus epilogue.
+- Preserved the grounded non-supernatural resolution and fair-play mechanism.
