@@ -82,3 +82,9 @@
 - Passed canon preservation, reveal order, character knowledge, mystery mechanism, fair play, clue/payoff integrity, climax structure, legal/evidentiary precision, ending integrity and prose consistency.
 - Created B11_VERIFICATION_GATE.md.
 - B11 is now 100% VERIFIED; B12 is the active next gate.
+
+## 2026-09-20 — Word count verification
+- Counted the canonical manuscript files for Chapters 1–32 + Epilogue.
+- Verified total: 5,810 words.
+- Confirmed the planned 80,000–95,000 word target is not yet met.
+- Saved WORD_COUNT_REPORT.md with file-level and chapter-level counts.
