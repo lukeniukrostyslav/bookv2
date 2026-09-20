@@ -4,7 +4,7 @@ Project: Book V2 — New Commercial Novel
 Repository: lukeniukrostyslav/bookv2
 Canonical branch: main
 Status: B10 DEVELOPMENTAL EDIT COMPLETE
-Overall progress: 81%
+Overall progress: 86%
 
 ## Blocks
 - B0 Project foundation: 0%
@@ -34,4 +34,4 @@ Overall progress: 81%
 8. Before continuing work, read the continuity documents.
 
 ## Current gate
-B10 developmental rewrite in progress: Chapters 1–24 revised. Next target: Chapters 25–32 + Epilogue. B11 remains blocked until the full developmental rewrite is complete.
+B10 full manuscript developmental rewrite is complete: Chapters 1–32 + Epilogue revised. Next target: complete B10 verification gate across the full manuscript. B11 remains blocked until verification passes.
