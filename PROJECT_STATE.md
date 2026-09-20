@@ -3,8 +3,8 @@
 Project: Book V2 — New Commercial Novel
 Repository: lukeniukrostyslav/bookv2
 Canonical branch: main
-Status: B10 DEVELOPMENTAL EDIT VERIFIED
-Overall progress: 87%
+Status: B11 LINE EDIT IN PROGRESS
+Overall progress: 88%
 
 ## Blocks
 - B0 Project foundation: 0%
@@ -18,7 +18,7 @@ Overall progress: 87%
 - B8 Chapter blueprint: 100%
 - B9 Manuscript drafting: 100%
 - B10 Developmental edit: 100% VERIFIED
-- B11 Line edit / prose polish: 0%
+- B11 Line edit / prose polish: 15%
 - B12 Continuity / clue / fair-play audit: 0%
 - B13 Final manuscript gate: 0%
 - B14 Publication package: 0%
@@ -35,11 +35,11 @@ Overall progress: 87%
 
 ## Current gate
 
-B10 full manuscript developmental rewrite and verification are complete:
-- Chapters 1–32 + Epilogue revised.
-- Full-manuscript continuity, character, clue/payoff, fair-play, causality, technology, chronology, Vieri, Matteo, climax, ending and transition checks passed.
-- Early canon documents were synchronized to the verified manuscript.
+B10 is fully verified.
 
-Next target: B11 Line Edit / Prose Polish.
-B12 remains a later dedicated continuity/clue/fair-play audit.
-B13 and B14 remain blocked until their preceding gates are complete.
+B11 is in progress:
+- Chapters 1–8 line edited and saved.
+- No canon or reveal-order changes introduced.
+- Next target: Chapters 9–16.
+
+B12, B13 and B14 remain blocked until their preceding gates are complete.
