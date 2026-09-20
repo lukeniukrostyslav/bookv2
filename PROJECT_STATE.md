@@ -4,7 +4,7 @@ Project: Book V2 — New Commercial Novel
 Repository: lukeniukrostyslav/bookv2
 Canonical branch: main
 Status: B11 LINE EDIT IN PROGRESS
-Overall progress: 90%
+Overall progress: 95%
 
 ## Blocks
 - B0 Project foundation: 0%
@@ -18,7 +18,7 @@ Overall progress: 90%
 - B8 Chapter blueprint: 100%
 - B9 Manuscript drafting: 100%
 - B10 Developmental edit: 100% VERIFIED
-- B11 Line edit / prose polish: 45%
+- B11 Line edit / prose polish: 60%
 - B12 Continuity / clue / fair-play audit: 0%
 - B13 Final manuscript gate: 0%
 - B14 Publication package: 0%
@@ -38,8 +38,8 @@ Overall progress: 90%
 B10 is fully verified.
 
 B11 is in progress:
-- Chapters 1–24 line edited and saved.
+- Chapters 1–32 + Epilogue line edited and saved.
 - No canon or reveal-order changes introduced.
-- Next target: Chapters 25–32 + Epilogue.
+- Next step: full B11 verification checkpoint before B12.
 
 B12, B13 and B14 remain blocked until their preceding gates are complete.
