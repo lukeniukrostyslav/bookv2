@@ -22,7 +22,12 @@ A sound archivist receives a recording that appears to have been made twelve hou
 A fair-play investigation into impossible posthumous recordings, with emotional stakes and a coherent final explanation.
 
 ## Main characters
-Elia Valli — sound archivist. Other principal characters remain open.
+Elia Valli — 39, municipal sound archivist; central protagonist.
+Lucia Serra — 44, local police inspector.
+Mara Venturi — 33 at death, acoustics technician; first impossible voice.
+Matteo Valli — Elia's missing younger brother; fate UNKNOWN.
+Tomas Rinaldi — 52, Hotel Aurora engineer.
+Sofia Venturi — 37, Mara's younger sister.
 
 ## Antagonistic force
 UNKNOWN.
