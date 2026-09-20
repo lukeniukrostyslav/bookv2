@@ -14,6 +14,7 @@ B0 Foundation
 → B7 Plot architecture
 → B8 Chapter blueprint
 → B9 Manuscript
+→ B9X Full-length manuscript expansion
 → B10 Developmental edit
 → B11 Line edit
 → B12 Continuity / clue / fair-play audit
