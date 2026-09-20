@@ -14,3 +14,9 @@
 
 | D-009 | 2026-09-20 | Anonymous messages are a pre-arranged Mara dead-drop system, not an omniscient living helper | Removes an unexplained information source and strengthens fair play | ACTIVE |
 | D-010 | 2026-09-20 | The climax must require preserving the master, stopping overwrite, and exporting an independent copy | Makes the technical resolution causally earned | ACTIVE |
+
+## 2026-09-20 — Full-length expansion gate
+- Verified manuscript volume is 5,810 words.
+- Established a working commercial target of approximately 85,000 words within the planned 80,000–95,000 range.
+- Added B9X as a required expansion gate before B12.
+- Expansion must preserve canon, reveal order, fair play, character arcs and the grounded technical mechanism.
