@@ -3,13 +3,13 @@
 Project: Book V2 — New Commercial Novel
 Repository: lukeniukrostyslav/bookv2
 Canonical branch: main
-Status: B1 MARKET RESEARCH COMPLETE
-Overall progress: 7%
+Status: B2 CORE CONCEPT COMPLETE
+Overall progress: 14%
 
 ## Blocks
 - B0 Project foundation: 0%
 - B1 Market / genre research: 100%
-- B2 Core concept: 0%
+- B2 Core concept: 100%
 - B3 Story promise / hook: 0%
 - B4 World and atmosphere: 0%
 - B5 Characters: 0%
@@ -34,4 +34,4 @@ Overall progress: 7%
 8. Before continuing work, read the continuity documents.
 
 ## Current gate
-B1 Market / genre research complete. Next gate: B2 Core concept.
+B2 Core concept complete. Next gate: B3 Story promise / hook.
