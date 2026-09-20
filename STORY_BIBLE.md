@@ -30,10 +30,10 @@ Tomas Rinaldi — 52, Hotel Aurora engineer.
 Sofia Venturi — 37, Mara's younger sister.
 
 ## Antagonistic force
-UNKNOWN.
+Alessandro Vieri, 58, public heritage/infrastructure director who privately protects and weaponizes Porto Nero's hidden acoustic surveillance network.
 
 ## Central mystery/conflict
-Impossible posthumous recordings connected to disappearances in Porto Nero.
+A hidden acoustic relay/surveillance network is used to manufacture apparently posthumous recordings by combining genuine recordings, delayed releases, hidden feeds, edits and falsified metadata. Mara discovered the system; Elia is drawn into the investigation.
 
 ## Rules of the world
 Grounded contemporary setting. Sound and archival evidence are central investigative mechanisms. No supernatural rule is canon yet.
@@ -45,10 +45,10 @@ Municipal Archive; Via della Marina, 6 / Hotel Aurora site; Old Customs Warehous
 Mara Venturi cassette; evidence bag; second audio attachment.
 
 ## Secrets
-The recordings contain hidden audio layers. Exact mechanism is UNKNOWN.
+The recordings contain hidden audio layers. The apparent posthumous timing is an engineered illusion using a concealed acoustic/recording network.
 
 ## Reveals
-Chapter-opening reveals are drafted; final reveal architecture remains UNKNOWN.
+The core mechanism and antagonist are now canon, but the exact sequence of final reveals remains to be architected in B7.
 
 ## Ending
 UNKNOWN.
