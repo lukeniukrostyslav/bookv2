@@ -10,7 +10,7 @@ UNKNOWN.
 Psychological mystery / thriller.
 
 ## Setting
-Working setting: Porto Nero, an Italian coastal town. Final geography and period details remain open.
+Porto Nero, a fictional Ligurian coastal town in northern Italy. Permanent population approximately 18,000. Key areas: municipal archive, former Venturi residence site, Hotel Aurora, old customs warehouse and harbour.
 
 ## Time period
 UNKNOWN.
@@ -31,10 +31,10 @@ UNKNOWN.
 Impossible posthumous recordings connected to disappearances in Porto Nero.
 
 ## Rules of the world
-UNKNOWN.
+Grounded contemporary setting. Sound and archival evidence are central investigative mechanisms. No supernatural rule is canon yet.
 
 ## Important locations
-Municipal archive; Via della Marina, 6; former site of Mara Venturi's home.
+Municipal Archive; Via della Marina, 6 / Hotel Aurora site; Old Customs Warehouse; Harbour; disused freight line.
 
 ## Key objects
 Mara Venturi cassette; evidence bag; second audio attachment.
