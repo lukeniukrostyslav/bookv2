@@ -21,3 +21,8 @@ None yet.
 | C-006 | Character | Lucia remembers an omitted detail from Matteo investigation | CHARACTERS_B5 | VERIFIED |
 | C-007 | Character | Mara investigated audio interference near old customs warehouse | CHARACTERS_B5 | VERIFIED |
 | C-008 | Character | Sofia received a message from Mara three days before death and withheld it from police | CHARACTERS_B5 | VERIFIED |
+
+| C-009 | Mystery | Impossible posthumous timing is an engineered illusion, not supernatural proof | CENTRAL_MYSTERY_B6 | VERIFIED |
+| C-010 | Antagonist | Alessandro Vieri protects and weaponizes the hidden acoustic network | CENTRAL_MYSTERY_B6 | VERIFIED |
+| C-011 | Mechanism | Recordings can be assembled from genuine audio, delayed releases, hidden feeds, edits and falsified metadata | CENTRAL_MYSTERY_B6 | VERIFIED |
+| C-012 | Matteo | Matteo discovered evidence of the network 11 years ago; fate remains UNKNOWN | CENTRAL_MYSTERY_B6 | VERIFIED |
